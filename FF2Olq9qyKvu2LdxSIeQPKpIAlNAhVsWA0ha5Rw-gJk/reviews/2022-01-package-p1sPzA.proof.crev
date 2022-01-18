@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-18T13:25:43.523785657-05:00"
+from:
+  id-type: crev
+  id: FF2Olq9qyKvu2LdxSIeQPKpIAlNAhVsWA0ha5Rw-gJk
+  url: "https://github.com/benluelo/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: dotenv
+  version: 0.15.0
+  revision: fa467c4febe3e1b1f406fbe5e3550afedffe5d82
+  digest: yt3OICvoflMGy9nGs5dw2wmQ3R5aWMRwGlfbR3KIeFo
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Well known and highly used crate. No backdoors found; crate is fairly small. Very thorough test suite.
+----- SIGN CREV PROOF -----
+1Ee5GbhmaxW6Mo7_CZVMEX8tEweZps-YcWKhm9c6tUQWFV_Vp94MdCDoQtYp7HUm2n1pG_JXt-3aooCOf3PKBg
+----- END CREV PROOF -----
+
